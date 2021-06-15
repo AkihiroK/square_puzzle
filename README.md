@@ -2,7 +2,7 @@
 
 * 作成者: Akihiro.K
 * 作成理由: 授業課題
-
+* 参考文献: https://yamakatsusan.web.fc2.com/python12.html
 
 ### 各パラメータについて
 * ```mul_heuristic``` : heuristic関数で推定したコストに掛け算する値.(default = 1)
