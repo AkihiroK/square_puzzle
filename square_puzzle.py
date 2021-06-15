@@ -1,4 +1,3 @@
-#コード変更完了
 from heapq import heappush, heappop
 from random import shuffle
 import time
@@ -191,6 +190,8 @@ if __name__ == '__main__':
    
     process_time = time.time() - start
     print("executing_time:    {} sec".format(round(process_time, 3)))
-    print("-------------")
-    print("[process]")
-    draw_process(sol)
+
+    '''詳細手順の表示'''
+    # print("-------------")
+    # print("[process]")
+    # draw_process(sol)
