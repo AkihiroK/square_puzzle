@@ -1,3 +1,4 @@
+#コード変更完了
 from heapq import heappush, heappop
 from random import shuffle
 import time
